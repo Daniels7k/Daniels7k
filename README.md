@@ -1,6 +1,6 @@
 ###    Hi there
-### 🌱 Learning: Java Script, HTML5, CSS, SKRIPT  
-### 👯 Collaborate in: Java Script, Skirpt and translations
+### 🌱 Programming Languages: Java Script, HTML5, CSS,
+### 👯 Collaborate in: Java Script, and translations
 ### 👅 Languages: Portuguese brazilian and English
 
 <br>
