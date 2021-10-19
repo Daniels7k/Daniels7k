@@ -1,5 +1,5 @@
 ###    Hi there
-### 🌱 Programming Languages: Java Script, HTML5, CSS,
+### 🌱 Front-end: Java Script, HTML5, CSS,
 ### 👯 Collaborate in: Java Script, and translations
 ### 👅 Languages: Portuguese brazilian and English
 
