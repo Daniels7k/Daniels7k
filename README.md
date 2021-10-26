@@ -1,5 +1,5 @@
 ###    Hi there
-### 🌱 Front-end: Java Script, HTML5, CSS,
+### 🌱 Skills: Java Script, HTML5, CSS, Node.JS,
 ### 👯 Collaborate in: Java Script, and translations
 ### 👅 Languages: Portuguese brazilian and English
 
