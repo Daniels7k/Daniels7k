@@ -1,5 +1,5 @@
 ###    Hi there
-### 🌱 Skills: Java Script, HTML5, CSS, Node.JS,
+### 🌱 Skills: Java Script, HTML5, CSS, Node.JS, React.js. ReactNative.js
 ### 👯 Collaborate in: Java Script, and translations
 ### 👅 Languages: Portuguese brazilian and English
 
