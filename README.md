@@ -1,7 +1,7 @@
-###    Hi there
-### 🌱 Skills: Java Script, HTML5, CSS, Node.JS, Express.js
-### 👯 Collaborate in: Java Script, and translations
-### 👅 Languages: Portuguese brazilian and English
+###    Eai?
+### 🌱 Competencias: Java Script, HTML5, CSS, Node.JS, Express.js
+### 👯 Colaborando em: Java Script, e traduções
+### 👅 Línguas: Português e inglês
 
 <br>
 
@@ -16,7 +16,5 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-no" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Rafa-re" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-
 </div>
  
