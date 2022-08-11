@@ -1,6 +1,17 @@
 ###    Eai?
-### 🌱 Competencias: Java Script, HTML5, CSS, Node.JS, Express.js
-### 👯 Colaborando em: Java Script, e traduções
+### 🌱 Competencias:
+- JavaScript
+- Typescript
+- Node.js
+- React.js
+- Banco de dados MongoDB
+- Banco de dados MySQL 
+- Material Ui
+- Express
+- HTML5
+- CSS3
+- Versionamento( Git, GitHub
+
 ### 👅 Línguas: Português e inglês
 
 <br>
