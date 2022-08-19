@@ -10,7 +10,7 @@
 - Express
 - HTML5
 - CSS3
-- Versionamento( Git, GitHub
+- Versionamento( Git, GitHub)
 
 ### 👅 Línguas: Português e inglês
 
