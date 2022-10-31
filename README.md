@@ -46,6 +46,10 @@
 <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
 </div>
 
+<div align="center">
+<img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" />
+</div>
+
 <br><br>  
 <div align="center">
   <a href="https://github.com/Daniels7k">
